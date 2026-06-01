@@ -1,10 +1,18 @@
 1. 开源课程、教程 :
-    - RO-I 机器人技术基础：建模与运动学               
-    - RO-II 机器人运动控制：动力学与控制方法
-    - RO-III 控制理论实践教程：经典控制/现代控制/非线性控制
+    - RO-I 机器人技术基础：建模与运动学  (to be added)             
+    - RO-II 机器人运动控制：动力学与控制方法(to be added)
+    - RO-III 控制理论实践教程：经典控制/现代控制/非线性控制(to be added)
     - ROS_Tutorials
+
         |- ROS1_RAICOM
-        |- ROS2_ROMAN
+            - ROS1_RAICOM_v0_1.pdf : 2025版培训资料
+            - 2026 ROS及睿抗开发者大赛服务组学习指南
+
+        |- ROS2_ROMAN (to be added)
 
 2. 习题、示例及算法仿真平台 （Matlab/Python + CoppeliaSim）:    
-    机器人控制算法实例复现及配套说明
+    - algorithm_sets_manipulator_control 机器人控制算法实例及说明
+
+       |- LQR and MPC optimal trajectory tracking
+
+       |- Trajectory-tracking-master
