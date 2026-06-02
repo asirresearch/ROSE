@@ -1,6 +1,6 @@
 # 睿抗工业组学习指南
-
-## 1. ROS 快速入门教程
+ 2026/6/2 整理 by 肖梦茹
+ 
 这是一个对新手友好、易于吸收的视频教程。在开始进行比赛核心内容开发之前，强烈建议完整观看一遍，建立对 ROS 节点、话题、服务的基本概念：
 *   **【机器人操作系统 ROS 快速入门教程】**：[https://www.bilibili.com/video/BV1BP4y1o7pw/](https://www.bilibili.com/video/BV1BP4y1o7pw/)
 
